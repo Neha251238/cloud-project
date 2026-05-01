@@ -10,7 +10,7 @@ The goal of this project is to provide a simple, fast, and reliable way to conne
 
 🛠️ Technologies Used
 Frontend: HTML, CSS, JavaScript
-Backend (optional): Node.js / Express
-Database (optional): MongoDB / Cloudant
+Backend: Node.js / Express
+Database: MongoDB / Cloudant
 Version Control: Git & GitHub
 
